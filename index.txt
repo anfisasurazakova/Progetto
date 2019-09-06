@@ -1,1 +1,3 @@
-versione locale
+public class Persona {
+	private int eta;
+}
